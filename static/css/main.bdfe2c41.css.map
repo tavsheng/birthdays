@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bdfe2c41.css","mappings":"AAAA,KACE,iBACF,CAEA,eACE,wBACF,CAEA,gBACE,wBACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n\n.container__bd {\n  background-color: rgb(70, 174, 206);\n}\n\n.container__wbd {\n  background-color: rgb(182, 121, 121);\n}\n\n"],"names":[],"sourceRoot":""}
