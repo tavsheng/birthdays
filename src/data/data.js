@@ -1,6 +1,5 @@
 const birthdays = [
     { name: 'Анатолий Букреев', birthdate: 24, birthmonth: 9 },
-    { name: 'Ильсияр Гильманшина', birthdate: 1, birthmonth: 1 },
     { name: 'Динар Мустафин', birthdate: 17, birthmonth: 7 },
     { name: 'Айгуль Шагиева', birthdate: 9, birthmonth: 4 },
     { name: 'Азамат Шагиев', birthdate: 2, birthmonth: 9 },
@@ -27,7 +26,7 @@ const birthdays = [
     { name: 'Альбина Беляева', birthdate: 26, birthmonth: 1 },
     { name: 'Ренат Мустафин', birthdate: 16, birthmonth: 4 },
     { name: 'Динара Мустафина', birthdate: 16, birthmonth: 4 },
-    { name: 'Руслан Мустафин', birthdate: 20, birthmonth: 6 },
+    { name: 'Ксения Мустафина', birthdate: 20, birthmonth: 6 },
     { name: 'Анфис Мугатабаров', birthdate: 30, birthmonth: 12 },
     { name: 'Рания Мугатабарова', birthdate: 8, birthmonth: 6 },
     { name: 'Адхам Мустафин', birthdate: 30, birthmonth: 12 },
@@ -47,6 +46,10 @@ const birthdays = [
     { name: 'Эмиль Гатин', birthdate: 8, birthmonth: 11 },
     { name: 'Элиза Мустафина', birthdate: 16, birthmonth: 1 },
     { name: 'Эльвина Латыпова', birthdate: 24, birthmonth: 8 },
+    { name: 'Инсаф Султанов', birthdate: 17, birthmonth: 6 },
+    { name: 'Руслан Мустафин', birthdate: 18, birthmonth: 2 },
+    { name: 'Венера Гайнулгалимова', birthdate: 9, birthmonth: 2 },
+    { name: 'Ралина Загидуллина', birthdate: 18, birthmonth: 4 },
     { name: 'Рената Галимуллина', birthdate: 8, birthmonth: 10 }
 ]
 
