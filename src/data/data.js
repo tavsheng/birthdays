@@ -50,6 +50,8 @@ const birthdays = [
     { name: 'Руслан Мустафин', birthdate: 18, birthmonth: 2 },
     { name: 'Венера Гайнулгалимова', birthdate: 9, birthmonth: 2 },
     { name: 'Ралина Загидуллина', birthdate: 18, birthmonth: 4 },
+    { name: 'Камил Мустафин', birthdate: 19, birthmonth: 9 },
+    { name: 'Амелия Беляева', birthdate: 18, birthmonth: 9 },
     { name: 'Рената Галимуллина', birthdate: 8, birthmonth: 10 }
 ]
 
